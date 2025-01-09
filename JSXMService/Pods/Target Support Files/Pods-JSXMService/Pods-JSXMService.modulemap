@@ -1,0 +1,6 @@
+framework module Pods_JSXMService {
+  umbrella header "Pods-JSXMService-umbrella.h"
+
+  export *
+  module * { export * }
+}
