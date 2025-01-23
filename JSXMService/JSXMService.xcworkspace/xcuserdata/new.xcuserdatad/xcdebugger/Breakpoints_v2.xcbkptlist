@@ -63,6 +63,34 @@
                   startingLineNumber = "31"
                   endingLineNumber = "31">
                </Location>
+               <Location
+                  uuid = "A6A8932F-314B-4399-85DB-814B1DC0C1FD - d18c95f07fe89e4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foundation.Data, JSXMService.RESTError&gt;) -&gt; () in JSXMService.ModelClass.fetchXMLData() -&gt; ()"
+                  moduleName = "JSXMService.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/new/Desktop/Json/-JXService/JSXMService/JSXMService/ModelClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31">
+               </Location>
+               <Location
+                  uuid = "A6A8932F-314B-4399-85DB-814B1DC0C1FD - d18c95f07fe89e4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foundation.Data, JSXMService.RESTError&gt;) -&gt; () in JSXMService.ModelClass.fetchXMLData() -&gt; ()"
+                  moduleName = "JSXMService.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/new/Desktop/Json/-JXService/JSXMService/JSXMService/ModelClass.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
