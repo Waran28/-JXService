@@ -17,7 +17,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hello, world!")
+            Text("Globe Hello world!")
                 .onTapGesture {
                     viewModel.fetchXMLData()
                 }
